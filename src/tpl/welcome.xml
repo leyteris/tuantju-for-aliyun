@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<div id="welcome">
+	<div id="welcome-logo">
+		<img src="res/images/wall/1.jpg" />
+	</div>
+	<div id="welcome-body" class="ms-yh">
+		<div class="header">
+			<span class="ms-yh">团团聚</span>
+			<a _action="go_city" id="change-city"><em class="ms-yh"></em></a>
+		</div>
+		<div id="welcome-layout">
+			<div id="welcome-container">
+				<div id="search-block">
+					<div class="search-container">
+						<input type="text" placeholder="想团啥，搜一下！" />
+						<a _action="go_search" id="search-btn">搜索</a>
+					</div>
+				</div>
+				<div id="cat-nav">
+					<a class="cat-item" _action="go_home" data-cid="1"><img src="res/images/welcome-images/1.jpg" /><em id="icon1">吃喝天下</em></a>
+					<a class="cat-item" _action="go_home" data-cid="3"><img src="res/images/welcome-images/2.jpg" /><em id="icon2">休闲娱乐</em></a>
+					<a class="cat-item" _action="go_home" data-cid="2"><img src="res/images/welcome-images/3.jpg" /><em id="icon3">生活服务</em></a>
+					<a class="cat-item" _action="go_home" data-cid="22"><img src="res/images/welcome-images/4.jpg" /><em id="icon4">酒店旅游</em></a>
+					<a class="cat-item" _action="go_home" data-cid="4"><img src="res/images/welcome-images/5.jpg" /><em id="icon5">精致生活</em></a>
+					<a class="cat-item" _action="go_home" data-cid="6"><img src="res/images/welcome-images/6.jpg" /><em id="icon6">其他团购</em></a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

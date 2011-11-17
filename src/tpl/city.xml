@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<div id="city">
+	<div class="header">
+		<a class="goBack" _action="go_back">后退</a>
+		<span class="ms-yh">团团聚</span>
+	</div>
+	<div id="city-content-wrapper" class="scrollview" style="height: 638px; display:none">
+		<div class="scroller">
+			<div style="min-height:638px; padding-bottom:20px; ">
+				<div class="city-list-block">
+					<h2>热门城市</h2>
+					<ul id="hot-city-list" >
+		        	</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="loading" style="display:block;">
+		<img src="res/images/loading_icon.gif" />
+	</div>
+</div>

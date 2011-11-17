@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<div id="search">
+	<div class="header">
+		<a class="goBack" _action="go_back">后退</a>
+		<span class="ms-yh">团团聚</span>
+	</div>
+	<div id="search-content-wrapper" class="scrollview" style="height:638px; display:none;">
+		<div class="scroller">
+			<ul id="search-list" style="min-height:638px;">
+	        </ul>
+		</div>
+	</div>
+	<div class="loading">
+		<img src="res/images/loading_icon.gif" />
+	</div>
+</div>

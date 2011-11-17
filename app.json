@@ -1,0 +1,13 @@
+{
+	"name": "tuantju.app",
+	"title": "团团聚",
+	"pathcss": "res/css/",
+	"pathimg": "res/images/",
+	"pathlib": "lib/",
+	"css": "tuantju.css",
+	"lib": "jquery-1.6.1.min.js,tuantju.tpl,tuantju.lib",
+	"conf": {
+		"debug": true
+	},
+	"active": true
+}
